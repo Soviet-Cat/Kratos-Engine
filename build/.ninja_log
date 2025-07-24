@@ -1,4 +1,4 @@
 # ninja log v6
-16	63	7749311686322883	CMakeFiles/KratosFramework.dir/src/test.cpp.obj	571c8f078a679281
-64	187	7749311687974020	libKratosFramework.dll	5398e696bfdda98f
-64	187	7749311687974020	libKratosFramework.dll.a	5398e696bfdda98f
+385	620	7749334334528880	libKratosFramework.dll.a	5398e696bfdda98f
+385	620	7749334334528880	libKratosFramework.dll	5398e696bfdda98f
+16	385	7749334328547963	CMakeFiles/KratosFramework.dir/src/test.cpp.obj	571c8f078a679281

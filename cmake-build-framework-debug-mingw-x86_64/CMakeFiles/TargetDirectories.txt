@@ -1,0 +1,7 @@
+C:/Users/harri/OneDrive/Desktop/Kratos-Engine/cmake-build-framework-debug-mingw-x86_64/CMakeFiles/KratosFramework.dir
+C:/Users/harri/OneDrive/Desktop/Kratos-Engine/cmake-build-framework-debug-mingw-x86_64/CMakeFiles/edit_cache.dir
+C:/Users/harri/OneDrive/Desktop/Kratos-Engine/cmake-build-framework-debug-mingw-x86_64/CMakeFiles/rebuild_cache.dir
+C:/Users/harri/OneDrive/Desktop/Kratos-Engine/cmake-build-framework-debug-mingw-x86_64/CMakeFiles/list_install_components.dir
+C:/Users/harri/OneDrive/Desktop/Kratos-Engine/cmake-build-framework-debug-mingw-x86_64/CMakeFiles/install.dir
+C:/Users/harri/OneDrive/Desktop/Kratos-Engine/cmake-build-framework-debug-mingw-x86_64/CMakeFiles/install/local.dir
+C:/Users/harri/OneDrive/Desktop/Kratos-Engine/cmake-build-framework-debug-mingw-x86_64/CMakeFiles/install/strip.dir

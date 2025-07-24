@@ -16,12 +16,18 @@ option(FRAMEWORK "Build and install 'framework'?" OFF)
 set(SRC ${CMAKE_CURRENT_SOURCE_DIR}/src)
 set(EXPORT "EXPORT")
 
+if(NOT ${CMAKE_SYSTEM_NAME} STREQUAL "Windows")
+    message(FATAL_ERROR "Kratos-Engine only supports Windows platforms.")
+endif()
+
 if (FRAMEWORK)
-    set(KratosFrameworkSources 
-        ${SRC}/test.cpp
+    set(KratosFrameworkSources
+        ${SRC}/platform/internal/windows.cpp
     )
     set(KratosFrameworkHeaders
-        ${SRC}/test.hpp
+        ${SRC}/core/math/vec2.hpp
+        ${SRC}/core/math/vec3.hpp
+        ${SRC}/core/math/vec4.hpp
     )
     add_library(KratosFramework SHARED ${KratosFrameworkSources})
     set_target_properties(KratosFramework PROPERTIES

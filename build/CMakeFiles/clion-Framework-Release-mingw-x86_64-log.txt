@@ -1,0 +1,7 @@
+E:\CMake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=E:/msys64/mingw64/bin/ninja.exe -DCMAKE_C_COMPILER=E:/msys64/mingw64/bin/cc.exe -DCMAKE_CXX_COMPILER=E:/msys64/mingw64/bin/c++.exe -G Ninja -S C:\Users\harri\OneDrive\Desktop\Kratos-Engine -B C:\Users\harri\OneDrive\Desktop\Kratos-Engine\build
+-- Configuring done (0.1s)
+CMake Error at CMakeLists.txt:32 (add_library):
+  No SOURCES given to target: KratosFramework
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
